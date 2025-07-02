@@ -3,7 +3,8 @@
 <p>
 
 <p>
-<p>Welcome to my page! </br> I'm Ivan, beginner programmer.    
+
+	Welcome to my page! </br> I'm Ivan, beginner programmer.    
 
 <p>
 
@@ -36,18 +37,24 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirp11)](https://github.com/username/github-readme-stats)    |  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirp11" alt="Gift's LangStat" />
 
-<p>
+
 
 ### My Languages:
-<p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirp11)](https://github.com/kirp11/github-readme-stats)
+
 <p>
 
 <p>
-![](https://leetcard.kirp11.cool/lapor?ext=heatmap)
+<div >
+ ![](https://leetcard.kirp11.cool/lapor?ext=heatmap)
+</div>
+<div >
+ [![LeetCode Stats](https://leetcard.kirp11.cool/kirp11?theme=unicorn&extension=activity)](https://leetcard.kirp11.cool/kirp11?theme=unicorn&extension=activity)
+</div>
 <p>
-![Codewars](https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+ ![Codewars](https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 <p>
 <p>
 
