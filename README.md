@@ -1,8 +1,12 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>    
 
 
-<p>Welcome to my page! </br> I'm Ivan, beginner programmer.
+<p>Welcome to my page! </br> I'm Ivan, beginner programmer.    
 <p>
+	<div >
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+<div >
+
 <p>
 
 <p>I have mastered the following resources:
@@ -39,7 +43,14 @@
 ### My Languages:
 <p>
 
-| <a href="https://github.com/kirp11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirp11&layout=compact&theme=buefy&hide_border=true" /></a> |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirp11)](https://github.com/kirp11/github-readme-stats)
+
+<p>
+
+### My GitHub Activities:
+<p>
+
+[![kirp11's github activity graph](https://activity-graph.herokuapp.com/graph?username=kirp11)](https://github.com/kirp11/github-readme-activity-graph)
 
 
 
