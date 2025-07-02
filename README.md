@@ -4,7 +4,8 @@
 
 <p>
 
-	Welcome to my page! </br> I'm Ivan, beginner programmer.    
+Welcome to my page! 
+</br> I'm Ivan, beginner programmer.    
 
 <p>
 
