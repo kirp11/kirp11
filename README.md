@@ -1,11 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>    
-
-
-<p>Welcome to my page! </br> I'm Ivan, beginner programmer.    
+   ![](https://komarev.com/ghpvc/?username=kirp11)
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 <p>
-	<div >
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
-<div >
+
+<p>
+<p>Welcome to my page! </br> I'm Ivan, beginner programmer.    
 
 <p>
 
@@ -44,13 +42,20 @@
 <p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirp11)](https://github.com/kirp11/github-readme-stats)
+<p>
 
+<p>
+![](https://leetcard.kirp11.cool/lapor?ext=heatmap)
+<p>
+![Codewars](https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<p>
 <p>
 
 ### My GitHub Activities:
-<p>
 
-[![kirp11's github activity graph](https://activity-graph.herokuapp.com/graph?username=kirp11)](https://github.com/kirp11/github-readme-activity-graph)
+[![kirp11's github activity graph](https://activity-graph.herokuapp.com/graph?username=kirp11)]
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirp11&theme=default)
 
 
 
