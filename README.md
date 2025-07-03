@@ -49,13 +49,11 @@ Welcome to my page!
 
 <p>
 
-<p>
-<div >
- ![](https://leetcard.kirp11.cool/lapor?ext=heatmap)
-</div>
-<div >
- [![LeetCode Stats](https://leetcard.kirp11.cool/kirp11?theme=unicorn&extension=activity)](https://leetcard.kirp11.cool/kirp11?theme=unicorn&extension=activity)
-</div>
+
+### LeetCode and CodeWars Activities:
+	
+![](https://leetcard.jacoblin.cool/kirp11?ext=heatmap)
+
 <p>
  ![Codewars](https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 <p>
