@@ -25,13 +25,13 @@ Welcome to my page!
 
 **About me**
 
-- 💼 
+- 💼 Currently learning: Python
 
-- 📈 
+- 📈 All my projects: Portfolio
 
 - ❤️ 
 
-- 💬 
+- 💬 Feel free to check out my repos, give feedback, or reach out. I’m here to learn, grow, and maybe inspire someone else along the way.
 
 <p>
 
@@ -60,12 +60,20 @@ Welcome to my page!
 
 ### My GitHub Activities:
 
-[![kirp11's github activity graph](https://activity-graph.herokuapp.com/graph?username=kirp11)]
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirp11&theme=default)
 
 
 
+
+
+### 💥 Featured Projects:
+
+🚀 [SnakeGame](https://github.com/kirp11/Snake_game)
+
+🌐 [Calculator](https://github.com/kirp11/calculator-python)
+
+💼 [Manager_books (console application)](https://github.com/kirp11/manager_books)
 
 <!-- THE END -->
 
