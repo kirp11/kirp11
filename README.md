@@ -38,7 +38,7 @@ Welcome to my page!
 ### My Statistic:
 <p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirp11)](https://github.com/kirp11/github-readme-stats)    |  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirp11" alt="Gift's LangStat" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirp11)](https://github.com/kirp11/github-readme-stats) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirp11" alt="Gift's LangStat" />
 
 
 
@@ -52,7 +52,7 @@ Welcome to my page!
 
 ### LeetCode and CodeWars Activities:
 	
-![](https://leetcard.jacoblin.cool/kirp11?ext=heatmap)            ![Codewars](https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![](https://leetcard.jacoblin.cool/kirp11?ext=heatmap)   ![Codewars](https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 
 
