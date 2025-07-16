@@ -52,7 +52,7 @@ Welcome to my page!
 
 ### LeetCode and CodeWars Activities:
 	
-![](https://leetcard.jacoblin.cool/kirp11?ext=heatmap)   <img src="https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="450"/>
+<img src="https://leetcard.jacoblin.cool/kirp11?ext=heatmap" width="400"/> <img src="https://github.r2v.ch/codewars?user=kirp11&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="400"/>
 
 
 
