@@ -29,7 +29,7 @@ Welcome to my page!
 
 - 📈 All my projects: Portfolio
 
-- ❤️ 
+- ❤️ I am interested in and studying the following areas: business process automation...
 
 - 💬 Feel free to check out my repos, give feedback, or reach out. I’m here to learn, grow, and maybe inspire someone else along the way.
 
