@@ -36,18 +36,23 @@ Welcome to my page!
 <p>
 
 ### My Statistic:
-<p>
+<p align="center">
+  <a href="https://github.com/kirp11/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kirp11" alt="GitHub stats" />
+  </a>
+</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirp11)](https://github.com/kirp11/github-readme-stats) <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirp11" alt="Gift's LangStat" />
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirp11" alt="GitHub Streak" />
+</p>
 
 ### My Languages:
 
-
+<p align="center"
+	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirp11)](https://github.com/kirp11/github-readme-stats)
+>
 
-<p>
 
 
 ### LeetCode and CodeWars Activities:
