@@ -69,7 +69,7 @@ Welcome to my page!
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirp11&theme=default" width="850"/>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 ### 💥 Featured Projects:
