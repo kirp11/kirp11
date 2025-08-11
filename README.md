@@ -69,7 +69,7 @@ Welcome to my page!
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirp11&theme=default" width="850"/>
 
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 
 
 ### 💥 Featured Projects:
@@ -79,6 +79,8 @@ Welcome to my page!
 🌐 [Calculator](https://github.com/kirp11/calculator-python)
 
 💼 [Manager_books (console application)](https://github.com/kirp11/manager_books)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!-- THE END -->
 
